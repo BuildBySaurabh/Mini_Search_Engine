@@ -33,4 +33,4 @@ The Mini Search Engine combines YouTube and Google web search into a single desk
 - Advanced search filters
 - Bookmark favorite results
 
-## Preview
+
